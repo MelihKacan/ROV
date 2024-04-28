@@ -7,4 +7,6 @@ urlpatterns = [
     path("camera",views.camera_stream,name="camera"),
     path("camera-feed",views.shape_page,name="camera-feed"),
     path("get_request",views.get_request,name="get_request"),
+    path("autonomus-stream",views.autonomous_stream,name="autonomus-stream"),
+    path("autonomous-page",views.autonomous_page,name="autonomous-page"),
 ]
