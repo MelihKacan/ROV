@@ -11,8 +11,8 @@ Bu repo, aracın su üstü ile su altı arasındaki haberleşmesini (Django + RE
 | **Takım** | Çaka ROV |
 | **Yarışma** | TEKNOFEST 2024 – İnsansız Su Altı Sistemleri, Temel Kategori |
 | **Raporlar** | Kritik Tasarım Raporu (KTR) → [`docs/KTR_Raporu.pdf`](docs/KTR_Raporu.pdf) |
-| **Benim rolüm** | _[Buraya yaz: ör. yazılım – görüntü işleme / haberleşme]_ |
-| **Sonuç** | _[Buraya yaz: ör. Final'e katıldık / ... sıralaması]_ |
+| **Benim rolüm** |Takım Kaptanı|
+| **Sonuç** | Test Videoları Aşamasında (Yarı Final) Elenme |
 
 ---
 
